@@ -1,0 +1,15 @@
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.Core\bin\Debug\netcoreapp3.1\FgOnlinePortal.Core.deps.json
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.Core\bin\Debug\netcoreapp3.1\FgOnlinePortal.Core.dll
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.Core\bin\Debug\netcoreapp3.1\FgOnlinePortal.Core.pdb
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.Core\bin\Debug\netcoreapp3.1\FgOnlinePortal.DataLayer.dll
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.Core\bin\Debug\netcoreapp3.1\FgOnlinePortal.DataLayer.pdb
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.Core\obj\Debug\netcoreapp3.1\FgOnlinePortal.Core.csproj.AssemblyReference.cache
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.Core\obj\Debug\netcoreapp3.1\FgOnlinePortal.Core.AssemblyInfoInputs.cache
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.Core\obj\Debug\netcoreapp3.1\FgOnlinePortal.Core.AssemblyInfo.cs
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.Core\obj\Debug\netcoreapp3.1\FgOnlinePortal.Core.csproj.CoreCompileInputs.cache
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.Core\obj\Debug\netcoreapp3.1\FgOnlinePortal.Core.csproj.CopyComplete
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.Core\obj\Debug\netcoreapp3.1\FgOnlinePortal.Core.dll
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.Core\obj\Debug\netcoreapp3.1\FgOnlinePortal.Core.pdb
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.Core\bin\Debug\netcoreapp3.1\FgOnlinePortal.Core.runtimeconfig.json
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.Core\bin\Debug\netcoreapp3.1\FgOnlinePortal.Core.runtimeconfig.dev.json
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.Core\obj\Debug\netcoreapp3.1\FgOnlinePortal.Core.genruntimeconfig.cache

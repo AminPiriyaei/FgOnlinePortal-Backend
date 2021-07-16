@@ -1,0 +1,12 @@
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.DataLayer\bin\Debug\netcoreapp3.1\FgOnlinePortal.DataLayer.deps.json
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.DataLayer\bin\Debug\netcoreapp3.1\FgOnlinePortal.DataLayer.dll
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.DataLayer\bin\Debug\netcoreapp3.1\FgOnlinePortal.DataLayer.pdb
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.DataLayer\obj\Debug\netcoreapp3.1\FgOnlinePortal.DataLayer.AssemblyInfoInputs.cache
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.DataLayer\obj\Debug\netcoreapp3.1\FgOnlinePortal.DataLayer.AssemblyInfo.cs
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.DataLayer\obj\Debug\netcoreapp3.1\FgOnlinePortal.DataLayer.csproj.CoreCompileInputs.cache
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.DataLayer\obj\Debug\netcoreapp3.1\FgOnlinePortal.DataLayer.dll
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.DataLayer\obj\Debug\netcoreapp3.1\FgOnlinePortal.DataLayer.pdb
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.DataLayer\bin\Debug\netcoreapp3.1\FgOnlinePortal.DataLayer.runtimeconfig.json
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.DataLayer\bin\Debug\netcoreapp3.1\FgOnlinePortal.DataLayer.runtimeconfig.dev.json
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.DataLayer\obj\Debug\netcoreapp3.1\FgOnlinePortal.DataLayer.genruntimeconfig.cache
+E:\Project_FgOnlinePortal\FgOnlinePortal\FgOnlinePortal.DataLayer\obj\Debug\netcoreapp3.1\FgOnlinePortal.DataLayer.csproj.AssemblyReference.cache
